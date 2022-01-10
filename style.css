@@ -1,0 +1,323 @@
+    html{
+        scroll-behavior: smooth;
+    }
+  
+   
+   /* Navbar */
+    .tombol{
+      text-transform: uppercase;
+      border-radius: 40px;
+    }
+    .bgcolor.scrolled{
+    background-color: #f2f2f2;
+    }
+  
+  /* carousel */
+  
+  .two-jumbotron-p, .two-jumbotron-h5, .btn{
+    text-align: left;
+    margin-bottom: 2rem;
+  }
+
+
+  /* tentang-kami */
+  .tentang-kami p{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #939393;
+  }
+
+  .tentang-kami h5{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #232323;
+  }
+
+  .tentang-kami h6{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #6f6f6f;
+  }
+ 
+  .tentang-kami{
+      margin-top: 85px;
+      margin-bottom: 80px;
+  }
+
+  /* feature-box */
+  .feature-box{
+      margin-top: 80px;
+  }
+  .feature-box p{
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6f6f6f;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  /* lokasi */
+  .lokasi-fadein{
+    background-image: linear-gradient(to right bottom, rgb(165, 187, 103), rgb(162, 188, 117));
+  }
+  .lokasi-banner{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 85px;
+    text-transform: uppercase;
+  }
+  .lokasi-slogan{
+    font-family: 'montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .lokasi-text{
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 15px;
+  }
+  .lokasi-angka{
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 120px;
+    line-height: 60px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 55px;
+  }
+  .lokasi-menit{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .lokasi-ket{
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 85px;
+  }
+
+  /* type unit rumah */
+  .type-unit-banner{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #939393;
+  }
+  .type-unit-slogan{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #232323;
+  }
+  .type-unit-text{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 23px;
+    line-height: 25px;
+    color: #232323;
+  }
+
+  .type-unit-rumah{
+    margin-top: 85px;
+  }
+
+  .type-a{
+    margin-top: 85px;
+  }
+  .type-b{
+    margin-top: 85px;
+  }
+  .card-body{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #232323;
+  }
+
+  /* contact */
+  .contact{
+    margin-top: 85px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: #6f6f6f;
+  }
+  .textcontact{
+    margin-top: 1rem;
+  }
+  /* promo */
+  .promo{
+    margin-top: 85px;
+  }
+
+  .promo h5{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #232323;
+  }
+
+  /* contact us */
+  .contact-us{
+    font-family: 'montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #939393;
+    margin-top: 85px;
+  }
+
+
+  /* footer */
+  .footer{
+    margin-top: 85px;
+  }
+
+  .desky-title{
+    margin-right: 3rem;
+  }
+  .videowrapper{
+    margin-right: 1rem;
+  }
+
+  
+  /* Desktop Version */
+  @media (min-width: 992px) {
+    /* Navbar */
+      .tombol{
+        text-transform: uppercase;
+        border-radius: 40px;
+      }
+      .bgcolor.scrolled{
+      background-color: #f2f2f2;
+      }
+      /* navbar */
+      .nav-link{
+          font-family: 'Lato', sans-serif;
+          text-transform: uppercase;
+          margin-right: 30px;
+          letter-spacing: 2px;
+          margin-top: 25px;
+          font-size: small;
+      }
+      .nav-link:hover{
+          border-bottom: 1px solid black;
+      }
+  
+      /* carousel */
+  .carousel-item img{
+    background-size: cover;
+    height: 625px;
+  }
+  
+  
+      /*info panel*/
+      .info-panel{
+      background-color:#B6A373;
+      background-size: cover;
+      text-align: center;
+      padding-top: 13px;
+      padding-bottom: 10px;
+      }
+      .text-garis{
+        font-size: large;
+      }
+  
+      .prime img{
+        position: relative;
+        z-index: 1;
+  
+      }
+  
+      /* innovation */
+      .innovation img{
+        margin-left: 4rem;
+        margin-top: 2rem;
+      }
+      .innovation p{
+        margin-left: 5rem;
+      }
+  
+      /* andra martin */
+      .andra-martin img{
+        margin-left: 5rem;
+        margin-top: 45px;
+        margin-bottom: 3rem;
+      }
+      .andra-martin p{
+        font-size: x-large;
+        margin-right: 4rem;
+        margin-bottom: 2rem;
+      }
+      .andra-martin h4{
+        margin-top: 5rem;
+      }
+      .andra-martin h3{
+        text-align: left;
+      }
+  
+      /* developer */
+      .developer h5{
+        text-align: left;
+      }
+      .developer img{
+        margin-left: 0;
+        margin-top: 15px;
+        margin-bottom: 5px;
+        border-top-right-radius: 50px;
+      }
+      html{
+        scroll-behavior: smooth;
+      }
+  
+  }
